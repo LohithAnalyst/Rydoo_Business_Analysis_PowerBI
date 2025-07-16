@@ -6,7 +6,8 @@ This Power BI dashboard project provides comprehensive insights into Rydoo trip 
 
 ---
 
-![]()
+![](https://github.com/LohithAnalyst/Rydoo_Business_Analysis_PowerBI/blob/c3c93931ded20d2b1ab53597a35d815a0edf53bb/Screenshots%20of%20Dashboard/Screenshot%202025-07-16%20122216.png)
+
 ---
 
 
@@ -19,12 +20,6 @@ You can explore the full interactive Power BI report here:
 
 ---
 
-
-
-
-
-
----
 ## 📌 Business Objective
 
 To analyze Rydoo ride data and generate insights on:
